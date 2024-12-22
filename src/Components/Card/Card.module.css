@@ -1,0 +1,15 @@
+.cardDiv{
+    box-shadow: 0 0 10px gray;
+    background-color: #fff;
+    color: black;
+    max-width: 450px;
+    text-align: center;
+    display: inline-block;
+    padding: 12px 20px;
+    margin: 12px 20px;
+}
+
+.img{
+    height: 200px;
+    width: 200px;
+}
